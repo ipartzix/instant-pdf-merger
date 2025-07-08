@@ -52,4 +52,5 @@ Merged into: Gate_details all in one.pdf
 Here’s how the tool looks in terminal:
 
 ![PDF Merger Demo](https://github.com/user-attachments/assets/168e5215-58ca-4b30-9303-a14b0214df02)
+---
 
