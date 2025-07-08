@@ -23,3 +23,33 @@ Install the required library:
 
 ```bash
 pip install PyPDF2
+```
+## 📂 Demo Files
+
+The repository includes sample PDFs for testing:
+
+- `Gate-cut-off-yearwise.pdf`
+- `Gate_details all in one.pdf`
+- `GATE-Syllabus-CS Computer Science and Information.pdf`
+
+Anyone can easily use them directly with the tool or replace them with their own files.
+
+---
+
+## 🧪 How to Use
+
+Place your PDF files in the same folder as `main.py`, or provide a relative path.
+
+### ▶️ Run the script:
+
+```bash
+python main.py
+t pdf (e.g., merged.pdf): Gate_details all in one.pdf
+Merged into: Gate_details all in one.pdf
+```
+## 📸 Demo Screenshot
+
+Here’s how the tool looks in terminal:
+
+![PDF Merger Demo](https://github.com/user-attachments/assets/168e5215-58ca-4b30-9303-a14b0214df02)
+
